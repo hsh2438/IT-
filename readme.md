@@ -20,14 +20,24 @@ NHN https://recruit.nhn.com/ent/index
 
 딜리버리히어로코리아 https://deliveryhero.recruiter.co.kr/appsite/company/index
 
-레이니스트 https://rainist.com/recruit
+레이니스트(뱅크샐러드) https://rainist.com/recruit
 
 야놀자 https://yanolja.in/recruitment/
 
 엔씨소프트 https://careers.ncsoft.com/
+
+넥슨 https://career.nexon.com/user/recruit/notice/noticeList?joinCorp=NX
 
 넷마블 https://company.netmarble.com/rem/www/noticelist.jsp
 
 네오위즈 https://neowiz.recruiter.co.kr/appsite/company/index
 
 이스트소프트 https://estsoft.recruiter.co.kr/appsite/company/index
+
+이베이 https://ebaykorea.recruiter.co.kr/appsite/company/index
+
+티몬 https://corp.tmon.co.kr/recruit/list/000
+
+인터파크 https://interpark.recruiter.co.kr/appsite/company/index
+
+위메프 https://recruit.wemakeprice.com/notice/list
