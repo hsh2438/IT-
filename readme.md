@@ -41,3 +41,5 @@ NHN https://recruit.nhn.com/ent/index
 인터파크 https://interpark.recruiter.co.kr/appsite/company/index
 
 위메프 https://recruit.wemakeprice.com/notice/list
+
+11번가 https://careers.11stcorp.com/home
