@@ -2,6 +2,10 @@
 
 카카오 https://careers.kakao.com/jobs
 
+카카오 엔터프라이즈 https://www.kakaoenterprise.com/
+
+카카오 뱅크https://kakaobank.recruiter.co.kr/appsite/company/index
+
 우아한 형제들 https://www.woowahan.com/#/recruit/tech
 
 라인 https://recruit.linepluscorp.com/lineplus/career/list
